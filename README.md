@@ -1,2 +1,10 @@
 # Java_Examples
-Examples of Java programs
+
+Some examples of Java programs
+
+Some Java code I wrote awhile back
+
+Enjoy!
+
+License
+MIT
